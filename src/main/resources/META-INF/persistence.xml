@@ -8,7 +8,7 @@
 			<!-- MySQL -->
 			<property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver" />
 			<property name="javax.persistence.jdbc.url"
-				value="jdbc:mysql://localhost:3306/ciberfarmadawi?serverTimezone=UTC" />
+				value="jdbc:mysql://localhost:3306/cl1_dawi?serverTimezone=UTC" />
 			<property name="javax.persistence.jdbc.user" value="root" />
 			<property name="javax.persistence.jdbc.password" value="mysql" />
 			<!-- Manejador Hibernate -->
